@@ -1,4 +1,11 @@
 def isHappy(n):
+    my_set = set()
+    while 1:
+        n = 
+
+
+
+    '''
     tx = 0
     if n ==1 or n==7: return False
     while n > 9:
@@ -8,6 +15,6 @@ def isHappy(n):
         return isHappy(tx)
     else:
         return True
-
+    '''
 
 print(isHappy(2))
